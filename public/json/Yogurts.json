@@ -1,0 +1,104 @@
+[
+    {
+      "id": 1,
+      "music_url": "./img/DGkala/yugert1.png",
+      "name": "متن ساختگی",
+      "gift":"1200",
+      "vate":"30",
+      "price":"1429000",
+      "app":"",
+      "timer":""
+    },
+    {
+      "id": 2,
+      "music_url": "./img/DGkala/yugert1.png",
+      "name": "متن ساختگی",
+      "gift":"",
+      "vate":"50",
+      "price":"2489000",
+      "app":"",
+      "timer":""
+    },
+    {
+      "id": 3,
+      "music_url": "./img/DGkala/yugert1.png",
+      "name": "متن ساختگی",
+      "gift":"",
+      "vate":"40",
+      "price":"1489000",
+      "app":"",
+      "timer":""
+    },
+    {
+      "id": 4,
+      "music_url": "./img/DGkala/yugert1.png",
+      "name": "متن ساختگی",
+      "gift":"3900",
+      "vate":"60",
+      "price":"2489000",
+      "app":"",
+      "timer":""
+    },
+    {
+      "id": 5,
+      "music_url": "./img/DGkala/yugert1.png",
+      "name": "متن ساختگی",
+      "gift":"",
+      "vate":"65",
+      "price":"3469000",
+      "app":"",
+      "timer":""
+    },
+    {
+      "id": 6,
+      "music_url": "./img/DGkala/yugert1.png",
+      "name": "متن ساختگی",
+      "gift":"",
+      "vate":"20",
+      "price":"2489000",
+      "app":"",
+      "timer":""
+    },
+    {
+      "id": 7,
+      "music_url": "./img/DGkala/yugert1.png",
+      "name": "متن ساختگی",
+      "gift":"",
+      "vate":"20",
+      "price":"2489000",
+      "app":"",
+      "timer":""
+    },
+    {
+      "id": 8,
+      "music_url": "./img/DGkala/yugert1.png",
+      "name": "متن ساختگی",
+      "gift":"",
+      "vate":"20",
+      "price":"2489000",
+      "app":"",
+      "timer":""
+    },
+    {
+      "id": 9,
+      "music_url": "./img/DGkala/yugert1.png",
+      "name": "متن ساختگی",
+      "gift":"",
+      "vate":"20",
+      "price":"2489000",
+      "app":"",
+      "timer":""
+    },
+    {
+      "id": 10,
+      "music_url": "./img/DGkala/yugert1.png",
+      "name": "متن ساختگی",
+      "gift":"",
+      "vate":"20",
+      "price":"2489000",
+      "app":"",
+      "timer":""
+    }
+    
+    
+]

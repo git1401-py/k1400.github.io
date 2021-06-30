@@ -1,0 +1,49 @@
+[
+    {
+      "id": "1",
+      "music_url": "./img/footerTop/14f1.png",
+      "name": "متن ساختگی",
+      "gift":"1200",
+      "vate":"30",
+      "price":"129000",
+      "timer":""
+    },
+    {
+      "id": "2",
+      "music_url": "./img/footerTop/14f2.png",
+      "name": "متن ساختگی",
+      "gift":"",
+      "vate":"50",
+      "price":"289000",
+      "timer":""
+    },
+    {
+      "id": "3",
+      "music_url": "./img/footerTop/14f3.png",
+      "name": "متن ساختگی",
+      "gift":"",
+      "vate":"40",
+      "price":"189000",
+      "timer":""
+    },
+    {
+      "id": "4",
+      "music_url": "./img/footerTop/14f4.png",
+      "name": "متن ساختگی",
+      "gift":"3900",
+      "vate":"60",
+      "price":"289000",
+      "timer":""
+    },
+    {
+      "id": "5",
+      "music_url": "./img/footerTop/14f5.png",
+      "name": "متن ساختگی",
+      "gift":"",
+      "vate":"65",
+      "price":"369000",
+      "timer":""
+    }
+    
+    
+]
